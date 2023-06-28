@@ -1,7 +1,7 @@
 <!--<img class="header-img" display="flex" width=100% src="https://github.com/Srikanthdongalajsr/Srikanthdongalajsr/blob/main/header-image.png" alt="Header">-->
 
-<!-- <h1 align="center">Hi there 👋, I'm Srikanth Reddy Dongala</h1>
-<h3 align="center">A Data Scientist and I love to be</h3> -->
+<h1 align="center">Hi there 👋, I'm Srikanth Reddy Dongala</h1>
+<h3 align="center">A Data Scientist and I love to be</h3>
 <img align = "right" alt="data" width=350 src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2E3Y2NhOGN2MjJkM3E2MjdpenRhbzl3b3Q3czRmbXBvc3Bra3N4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanthdongalajsr&label=Profile%20views&color=0e75b6&style=flat" alt="srikanthdongalajsr" /> </p>
