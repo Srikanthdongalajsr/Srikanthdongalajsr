@@ -1,4 +1,4 @@
-<img class="header-img" display="flex" width=100% src="https://drive.google.com/file/d/11r0CHXE0nSkQACtQ4TixtGsXFsH5DVEN/view?usp=drive_link" alt="Header">
+<!--<img class="header-img" display="flex" width=100% src="https://drive.google.com/file/d/11r0CHXE0nSkQACtQ4TixtGsXFsH5DVEN/view?usp=drive_link" alt="Header">-->
 
 <h1 align="center">Hi there 👋, I'm Srikanth Reddy Dongala</h1>
 <h3 align="center">A Data Scientist and I love to be</h3>
