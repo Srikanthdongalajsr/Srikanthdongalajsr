@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **srikanthdongalajsr@gmail.com**
 
-- 📑 Look at my blogs <a href="https://knowledgeisfun.hashnode.dev/">**Blogs**</a>
+- 📑 To read my blogs <a href="https://knowledgeisfun.hashnode.dev/">**Check my Blogs**</a>
 
 - 📄 To know about my experiences <a href="https://drive.google.com/file/d/1PJ0kRo2gEz1OTM1z8RCciJjM7Pk04Hm6/view?usp=sharing">**Check my Resume**</a>
 
