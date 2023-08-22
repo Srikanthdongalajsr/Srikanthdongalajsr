@@ -11,7 +11,7 @@
 
 - 😄 Pronouns **He/Him**
 
-- 🔭 I’m currently working on **Predictive Modelling and Customer Segmentation for an E-Commerce Platform**
+- 🔭 I’m currently working on **Automation of Text Documents, Pose Detection, Satellite Image Processing and Object Detection**
 
 - 🌱 I’m currently learning **Advanced AI**
 
