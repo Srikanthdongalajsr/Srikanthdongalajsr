@@ -21,7 +21,7 @@
 
 - 📑 To read my blogs <a href="https://knowledgeisfun.hashnode.dev/">**Hashnode**</a>,  <a href="https://medium.com/@srikanthdongalajsr">**Medium**</a>
 
-- 📄 To know about my experiences <a href="https://drive.google.com/file/d/1PJ0kRo2gEz1OTM1z8RCciJjM7Pk04Hm6/view?usp=sharing">**Check my Resume**</a>
+- 📄 To know about my experiences <a href="https://drive.google.com/file/d/1QAm_uFZN9kb18ckSUCyv_s7blrXqiLl-/view?usp=drive_link">**Check my Resume**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
