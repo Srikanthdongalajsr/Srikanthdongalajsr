@@ -27,6 +27,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/srikanth-dongala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srikanth-dongala/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/srikanthdongala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/srikanthdongala" height="30" width="40" /></a>
+<a href="https://medium.com/@srikanthdongalajsr" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMedium_%2528website%2529_logo.svg&psig=AOvVaw2GzTcMgtxvo_LxEPsrqtbC&ust=1721195487566000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiX-rHvqocDFQAAAAAdAAAAABAE" alt="https://medium.com/@srikanthdongalajsr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
