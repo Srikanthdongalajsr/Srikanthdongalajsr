@@ -11,11 +11,11 @@
 
 - 😄 Pronouns **He/Him**
 
-- 🔭 I’m currently working on **Automation of Text Documents, Pose Detection, Satellite Image Processing and Object Detection**
+- 🔭 I’m currently working on **Satellite Image Processing, Object Detection, Segmentation, Spatial LLM, RAG**
 
 - 🌱 I’m currently learning **Advanced AI**
 
-- 💬 Ask me about **Python, Data Analysis, Machine Learning, and Artificial Intelligence**
+- 💬 Ask me about **Python, Data Analysis, Machine Learning, CV, Deep Learning and Generative Artificial Intelligence**
 
 - 📫 How to reach me **srikanthdongalajsr@gmail.com**
 
