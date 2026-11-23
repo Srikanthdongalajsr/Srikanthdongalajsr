@@ -1,38 +1,61 @@
-<img class="header-img" display="flex" width=100% src="https://github.com/Srikanthdongalajsr/Srikanthdongalajsr/blob/main/header-image.jpg" alt="Header">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Srikanth Reddy Dongala. AI Manager, Lead AI Engineer at AtliQ Technologies. I build AI systems. I make them simple.">
+</picture>
 
-<!--<h1 align="center">Hi there 👋, I'm Srikanth Reddy Dongala</h1>-->
-<h3 align="center">A Data Scientist and I love to be</h3>
-<img align = "right" alt="data" width=350 src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2E3Y2NhOGN2MjJkM3E2MjdpenRhbzl3b3Q3czRmbXBvc3Bra3N4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanthdongalajsr&label=Profile%20views&color=0e75b6&style=flat" alt="srikanthdongalajsr" /> </p>
-
-<h3 align="left">Bio:</h3>
-<p>Fuelled by an unwavering passion for innovation armed with a Masters in Data Science. I am passionately dedicated to advancing the frontiers of Data Science through groundbreaking solutions</p>
-
-- 😄 Pronouns **He/Him**
-
-- 🔭 I’m currently working on **Satellite Image Processing, Object Detection, Segmentation, Spatial LLM, RAG**
-
-- 🌱 I’m currently learning **Advanced AI**
-
-- 💬 Ask me about **Python, Data Analysis, Machine Learning, CV, Deep Learning and Generative Artificial Intelligence**
-
-- 📫 How to reach me **srikanthdongalajsr@gmail.com**
-
-- 📑 To read my blogs <a href="https://knowledgeisfun.hashnode.dev/">**Hashnode**</a>,  <a href="https://medium.com/@srikanthdongalajsr">**Medium**</a>
-
-- 📄 To know about my experiences <a href="https://drive.google.com/file/d/1QAm_uFZN9kb18ckSUCyv_s7blrXqiLl-/view?usp=drive_link">**Check my Resume**</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/srikanth-dongala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srikanth-dongala/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/srikanthdongala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/srikanthdongala" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@srikanthdongalajsr" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMedium_%2528website%2529_logo.svg&psig=AOvVaw2GzTcMgtxvo_LxEPsrqtbC&ust=1721195487566000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiX-rHvqocDFQAAAAAdAAAAABAE" alt="https://medium.com/@srikanthdongalajsr" height="30" width="40" /></a> -->
+<p>
+  <a href="https://srikanthdongala.pages.dev"><img src="https://img.shields.io/badge/Portfolio-srikanthdongala.pages.dev-2450e0?style=flat-square" alt="Portfolio"></a>
+  <a href="https://www.youtube.com/@srikanthdongala-ai"><img src="https://img.shields.io/badge/YouTube-@srikanthdongala--ai-ff0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.linkedin.com/in/srikanth-dongala/"><img src="https://img.shields.io/badge/LinkedIn-srikanth--dongala-0a66c2?style=flat-square" alt="LinkedIn"></a>
+  <a href="https://medium.com/@srikanthdongalajsr"><img src="https://img.shields.io/badge/Medium-articles-111111?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+  <img src="https://komarev.com/ghpvc/?username=srikanthdongalajsr&label=Profile%20views&color=2450e0&style=flat-square" alt="Profile views">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I build production AI at **AtliQ Technologies** and teach it at **Codebasics** and on **YouTube**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikanthdongalajsr&show_icons=true&locale=en&layout=compact" alt="srikanthdongalajsr" /></p>
+## Shipped work
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srikanthdongalajsr&show_icons=true&locale=en" alt="srikanthdongalajsr" /></p>
+<a href="https://github.com/atliq/guardex-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-guardex-dark.svg"><img src="assets/card-guardex-light.svg" width="49%" alt="GuardEx: open-source guardrails for LLM apps"></picture></a>
+<a href="https://srikanthdongala.pages.dev/papers/geosmart-2023-auto-georeferencing.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-georef-dark.svg"><img src="assets/card-georef-light.svg" width="49%" alt="Auto-georeferencing of satellite images, 97%+ accuracy"></picture></a>
+<a href="https://srikanthdongala.pages.dev/#work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-voice-dark.svg"><img src="assets/card-voice-light.svg" width="49%" alt="Voice AI agents, 500+ calls a day in production"></picture></a>
+<a href="https://github.com/atliq/recap"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-recap-dark.svg"><img src="assets/card-recap-light.svg" width="49%" alt="RECAP: ask your own reading history, with citations"></picture></a>
+<a href="https://srikanthdongala.pages.dev/#work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-qa-dark.svg"><img src="assets/card-qa-light.svg" width="49%" alt="AI web testing agent"></picture></a>
+<a href="https://www.knogen.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-knogen-dark.svg"><img src="assets/card-knogen-light.svg" width="49%" alt="KnoGen: company documents, role-based access"></picture></a>
+
+## Run my code
+
+- [**mini-claude**](https://github.com/Srikanthdongalajsr/mini-claude): build your own Claude Code in plain Python
+- [**blipkart-agent-evals-guardrails**](https://github.com/Srikanthdongalajsr/blipkart-agent-evals-guardrails): an agent with guardrails, evals and tracing
+- [**llm-cost-cutting**](https://github.com/Srikanthdongalajsr/llm-cost-cutting): five ways to cut an LLM bill
+- [**embeddinggemma-2-tutorial**](https://github.com/Srikanthdongalajsr/embeddinggemma-2-tutorial): search photos, audio and text with one model
+
+## Languages and tools
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-stack-dark.svg">
+  <img src="assets/ai-stack-light.svg" width="100%" alt="AI tools: LangChain, LangGraph, LlamaIndex, CrewAI, n8n, MCP, Hugging Face, Unsloth, OpenAI, Claude, Gemini, Gemma, Ollama, vLLM, Groq, OpenRouter, Milvus, Qdrant, Neo4j, Langfuse, LangSmith, Weights and Biases, MLflow, Streamlit, LiveKit, ElevenLabs, AWS, Bedrock, Azure">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,sqlite,cloudflare,githubactions,git,linux&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,sqlite,cloudflare,githubactions,git,linux&theme=light" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, Docker, SQLite, Cloudflare, GitHub Actions, Git, Linux">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" width="100%" alt="GitHub stats: stars, contributions this year, repos built, top languages">
+</picture>
+
+## Teaching
+
+Instructor at [Codebasics](https://codebasics.io/bootcamps/ai-engineering-bootcamp-software-engineers-4) · speaker at GDG Baroda, AI Day 2026, GeoSmart 2023 · 50+ engineers mentored
+
+<!-- VIDEOS:START -->
+<p>
+<a href="https://www.youtube.com/watch?v=Oq8yLxrqxFE" title="The AI Career Mistakes I See Every Week"><img src="https://i.ytimg.com/vi/Oq8yLxrqxFE/mqdefault.jpg" width="49%" alt="The AI Career Mistakes I See Every Week"></a>
+<a href="https://www.youtube.com/watch?v=-nDR_kE6Obg" title="Stanford's New NCM Model Is 31x Faster. So replace your LLMs?"><img src="https://i.ytimg.com/vi/-nDR_kE6Obg/mqdefault.jpg" width="49%" alt="Stanford's New NCM Model Is 31x Faster. So replace your LLMs?"></a>
+</p>
+<!-- VIDEOS:END -->
+
+<p align="center"><sub>Building something with AI? <a href="https://srikanthdongala.pages.dev">Let's work together.</a></sub></p>
