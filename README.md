@@ -53,7 +53,7 @@ Instructor at [Codebasics](https://codebasics.io/bootcamps/ai-engineering-bootca
 
 <!-- VIDEOS:START -->
 <p>
-<a href="https://www.youtube.com/watch?v=Oq8yLxrqxFE" title="The AI Career Mistakes I See Every Week"><img src="https://i.ytimg.com/vi/Oq8yLxrqxFE/mqdefault.jpg" width="49%" alt="The AI Career Mistakes I See Every Week"></a>
+<a href="https://www.youtube.com/watch?v=Oq8yLxrqxFE" title="What Actually Gets You AI Interview Calls"><img src="https://i.ytimg.com/vi/Oq8yLxrqxFE/mqdefault.jpg" width="49%" alt="What Actually Gets You AI Interview Calls"></a>
 <a href="https://www.youtube.com/watch?v=-nDR_kE6Obg" title="Stanford's New NCM Model Is 31x Faster. So replace your LLMs?"><img src="https://i.ytimg.com/vi/-nDR_kE6Obg/mqdefault.jpg" width="49%" alt="Stanford's New NCM Model Is 31x Faster. So replace your LLMs?"></a>
 </p>
 <!-- VIDEOS:END -->
