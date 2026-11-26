@@ -11,7 +11,7 @@ from collections import Counter
 from datetime import date
 from html import escape
 
-from build_svgs import MONO, OUT, SANS, THEMES
+from theme import MONO, OUT, SANS, THEMES
 
 USER = "Srikanthdongalajsr"
 EXTRA_REPOS = ["atliq/guardex-ai", "atliq/recap"]  # team repos he builds; stars count toward his work
